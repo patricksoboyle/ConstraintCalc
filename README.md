@@ -1,4 +1,4 @@
-Demo: concalc.codes
+Demo: www.concalc.codes
 
 # Constraint Calculator
 A website implementing and extending the concept of constraint programming as found in Section 3.3.5 of _Structure and Interpretation of Computer Programs_ (see https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-22.html#%_sec_3.3.5) into a functional, user-friendly website. Uses Racket and Python for backend calculations and Flask, Gunicorn, and NGINX to serve the webpage.
